@@ -37,6 +37,6 @@
   "license": "ISC",
   "description": "",
   "devDependencies": {
-    "hexo-breadcrumb": "^1.0.5"
+    "hexo-breadcrumb": "^1.1.0"
   }
 }
